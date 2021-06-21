@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Codice-Elit
+- 👋 Hi, I’m Dis-Code
 - 👀 I’m interested in the amazing world of dev
-- 🌱 I’m currently learning stuff
+- 🌱 I’m currently learning stuff and making em
 - 📫 How to reach me: here is my email - pandapixel.94@gmail.com
-
-<!---
-Codice-Elit/Codice-Elit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
